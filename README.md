@@ -1,4 +1,4 @@
-# sql-challenge
+# Historical Employee Database Analysis
 
 __Background/Scenario__
 
